@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="MAPA_SVG.Global_asax" Language="C#" %>
